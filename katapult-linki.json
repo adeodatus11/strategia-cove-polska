@@ -1,0 +1,905 @@
+{
+  "summary": {
+    "data": "2026-09-12",
+    "pliki_pobrane": 103,
+    "unikalne_pdf": 7,
+    "strony_pdf": 69,
+    "artykuly_katapult": 21,
+    "bledy": [
+      {
+        "url": "https://wearekatapult.eu/english/",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.povewater.eu/scanning-tools/",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.nhlstenden.com/onderzoek/duurzame-innovatie-in-de-regionale-kenniseconomie",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "https://www.mbo-westland.nl/WorldHortiCenter",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.chemelot.nl/homepage",
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.en-tran-ce.org/en/",
+        "error": "HTTP Error 403: Forbidden"
+      },
+      {
+        "url": "http://www.smartweldingfactory.com/",
+        "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      }
+    ]
+  },
+  "links": [
+    {
+      "source": "https://wearekatapult.eu/building-blocks/",
+      "url": "https://wearekatapult.eu/english/",
+      "label": "Home",
+      "status": "Pobranie nie powiodło się: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/",
+      "url": "https://wearekatapult.eu/building-blocks/",
+      "label": "Building blocks for public private partnerships",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/",
+      "url": "https://wearekatapult.eu/messages/building-blocks/",
+      "label": "#Building blocks",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/",
+      "url": "https://player.vimeo.com/video/571253406",
+      "label": "571253406",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.povewater.eu/",
+      "label": "Platform of Vocational Excellence Water",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://wearekatapult.eu/tools/stakeholderanalysis",
+      "label": "Stakeholder Analysis",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Tool-PESTLE-scan.pdf",
+      "label": "PESTLE Scan",
+      "status": "Pobrano kopię lokalną · 6 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.youtube.com/embed/qp0HIF3SfI4?si=uTVPhS3w63_V2cz3",
+      "label": "YouTube video player",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://wearekatapult.eu/tools/business-model-canvas",
+      "label": "Business Model Canvas",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/files/downloads/BMC%20English.pdf",
+      "label": "this",
+      "status": "Pobrano kopię lokalną · 4 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Empathy-map.png",
+      "label": "Empathy Map",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.youtube.com/embed/QoAOzMTLP5s?si=Wm-xc8NYk-_FlogK",
+      "label": "YouTube video player",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Action-plan-format-projects.pdf",
+      "label": "Project Format",
+      "status": "Pobrano kopię lokalną · 6 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://wearekatapult.eu/building-blocks",
+      "label": "Building Blocks for Partnerships",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Blueprint-cooperation-agreement-CoVE.pdf",
+      "label": "CoVE Water Blueprint",
+      "status": "Pobrano kopię lokalną · 14 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Phase%20model.pdf",
+      "label": "Phase Model for Public Private Partnerships",
+      "status": "Pobrano kopię lokalną · 10 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "url": "https://www.wearekatapult.eu/tools/peer-review/",
+      "label": "Peer Review Model",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/stakeholderanalysis",
+      "url": "https://wearekatapult.eu/files/downloads/Tool Reflection on Collaboration.pdf",
+      "label": "Download our tool",
+      "status": "Pobrano kopię lokalną · 7 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/stakeholderanalysis",
+      "url": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "label": "scanning-tool-pove-water-project",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/business-model-canvas",
+      "url": "https://www.youtube.com/embed/QoAOzMTLP5s",
+      "label": "QoAOzMTLP5s",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/business-model-canvas",
+      "url": "https://wearekatapult.eu/files/downloads/BMC English.pdf",
+      "label": "Download our tool",
+      "status": "Pobrano kopię lokalną · 4 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/tools/business-model-canvas",
+      "url": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "label": "european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks",
+      "url": "https://wearekatapult.eu/english/",
+      "label": "Home",
+      "status": "Pobranie nie powiodło się: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks",
+      "url": "https://wearekatapult.eu/building-blocks/",
+      "label": "Building blocks for public private partnerships",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks",
+      "url": "https://player.vimeo.com/video/571253406",
+      "label": "571253406",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://www.wearekatapult.eu/tools/peer-review/",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Peer%20Reviews.pdf",
+      "label": "this document",
+      "status": "Pobrano kopię lokalną · 22 stron PDF."
+    },
+    {
+      "source": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "url": "https://www.povewater.eu/scanning-tools/",
+      "label": "website",
+      "status": "Pobranie nie powiodło się: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "url": "https://wearekatapult.eu/tools/stakeholderanalysis",
+      "label": "stakeholderanalysis",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "url": "https://wearekatapult.eu/platform-of-vocational-excellence-water",
+      "label": "platform-of-vocational-excellence-water",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "url": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "label": "european-grant-for-platforms-of-vocational-excellence",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "url": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "label": "centers-of-vocational-excellence-explained",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "url": "https://wearekatapult.eu/first-live-international-water-project-week",
+      "label": "first-live-international-water-project-week",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "url": "https://wearekatapult.eu/handbook-working-together-works",
+      "label": "< Previous",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "url": "https://wearekatapult.eu/katapult-annual-report-2019",
+      "label": "Next >",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "url": "https://youtu.be/BDEK_thbEaA",
+      "label": "here",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "url": "http://www.povewater.eu/",
+      "label": "PoVE Water",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "url": "https://wearekatapult.eu/tools/business-model-canvas",
+      "label": "business-model-canvas",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "url": "https://wearekatapult.eu/first-live-international-water-project-week",
+      "label": "first-live-international-water-project-week",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-do-you-build-a-succesful-public-private-partnership",
+      "url": "https://wearekatapult.eu/learning-for-impact-in-a-changing-world",
+      "label": "< Previous",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-do-you-build-a-succesful-public-private-partnership",
+      "url": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "label": "Next >",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-do-you-build-a-succesful-public-private-partnership",
+      "url": "https://player.vimeo.com/video/571253406",
+      "label": "571253406",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://deltaplatform.nl/en/",
+      "label": "Delta Platform",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://www.hanze.nl/eng/research/centre-for-applied-research/centre-of-expertise-healthy-ageing",
+      "label": "Center of Expertise Healthy Ageing",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://techforfuture.nl/",
+      "label": "TechForFuture",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://www.nhlstenden.com/onderzoek/duurzame-innovatie-in-de-regionale-kenniseconomie",
+      "label": "PPP Model for regional co-makership",
+      "status": "Pobranie nie powiodło się: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "label": "context-rich-infrastructure",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://wearekatapult.eu/improving-education",
+      "label": "improving-education",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://wearekatapult.eu/building-block-life-long-learning",
+      "label": "building-block-life-long-learning",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://wearekatapult.eu/network-building",
+      "label": "network-building",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/applied-research",
+      "url": "https://wearekatapult.eu/building-block-professional-innovation",
+      "label": "building-block-professional-innovation",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://www.techport.nl/",
+      "label": "Techport",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://www.brainportindustriescampus.com/en/",
+      "label": "BIC/High Tech Campus Eindhoven",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://www.mbo-westland.nl/WorldHortiCenter",
+      "label": "Horti Campus",
+      "status": "Pobranie nie powiodło się: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://www.chemelot.nl/homepage",
+      "label": "Chemelot",
+      "status": "Pobranie nie powiodło się: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://wearekatapult.eu/applied-research",
+      "label": "applied-research",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://wearekatapult.eu/improving-education",
+      "label": "improving-education",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://wearekatapult.eu/building-block-life-long-learning",
+      "label": "building-block-life-long-learning",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://wearekatapult.eu/network-building",
+      "label": "network-building",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "url": "https://wearekatapult.eu/building-block-professional-innovation",
+      "label": "building-block-professional-innovation",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://www.topcentrum.nl/",
+      "label": "Topcenter E-Commerce",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://www.en-tran-ce.org/en/",
+      "label": "EnTranCe",
+      "status": "Pobranie nie powiodło się: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://www.chillabs.nl/en/chill-enhances-the-innovative-strength-companies-the-chemical-sector/",
+      "label": "Chemelot Innovation and Living Labs",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "label": "context-rich-infrastructure",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://wearekatapult.eu/improving-education",
+      "label": "improving-education",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://wearekatapult.eu/building-block-life-long-learning",
+      "label": "building-block-life-long-learning",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://wearekatapult.eu/network-building",
+      "label": "network-building",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-professional-innovation",
+      "url": "https://wearekatapult.eu/applied-research",
+      "label": "applied-research",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://nextechnician.nl/",
+      "label": "NexTechnician",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://coeci.nl/s/",
+      "label": "Centre of Expertise for Creative Innovation",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://www.en-tran-ce.org/en/",
+      "label": "EnTranCe",
+      "status": "Pobranie nie powiodło się: HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://www.topcentrum.nl/",
+      "label": "Topcenter E-Commerce",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "label": "context-rich-infrastructure",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://wearekatapult.eu/building-block-professional-innovation",
+      "label": "building-block-professional-innovation",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://wearekatapult.eu/building-block-life-long-learning",
+      "label": "building-block-life-long-learning",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://wearekatapult.eu/improving-education",
+      "label": "improving-education",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://wearekatapult.eu/applied-research",
+      "label": "applied-research",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/network-building",
+      "url": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "label": "how-to-establish-a-public-private-partnership",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "http://www.smartweldingfactory.com/",
+      "label": "Fieldlab Smart Welding Factory",
+      "status": "Pobranie nie powiodło się: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "http://www.fieldlabir.nl/",
+      "label": "Fieldlab Industrial Robotics",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://www.duurzaamheidsfabriek.nl/",
+      "label": "Sustainabilaty Factory",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "label": "context-rich-infrastructure",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://wearekatapult.eu/building-block-professional-innovation",
+      "label": "building-block-professional-innovation",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://wearekatapult.eu/network-building",
+      "label": "network-building",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://wearekatapult.eu/improving-education",
+      "label": "improving-education",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://wearekatapult.eu/applied-research",
+      "label": "applied-research",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/building-block-life-long-learning",
+      "url": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "label": "first-impressions-cove-urban-greening-denmark",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/platform-of-vocational-excellence-water",
+      "url": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "label": "< Previous",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/platform-of-vocational-excellence-water",
+      "url": "https://wearekatapult.eu/cove-match-making-map",
+      "label": "Next >",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/platform-of-vocational-excellence-water",
+      "url": "https://www.civwater.nl/centre-of-innovative-craftsmanship-water-civ-water",
+      "label": "CIV Water",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/platform-of-vocational-excellence-water",
+      "url": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "label": "scanning-tool-pove-water-project",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "label": "< Previous",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/platform-of-vocational-excellence-water",
+      "label": "Next >",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://eacea.ec.europa.eu/erasmus-plus/news/centres-of-vocational-excellence_en",
+      "label": "here",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/",
+      "label": "Boudewijn",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/dynamic-en-innovative-partnerships-in-the-netherlands-2017",
+      "label": "dynamic-en-innovative-partnerships-in-the-netherlands-2017",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/skills-for-industry-katapult-as-best-practice",
+      "label": "skills-for-industry-katapult-as-best-practice",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/mapping-centres-of-vocational-excellence",
+      "label": "mapping-centres-of-vocational-excellence",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/european-grant-for-platforms-of-vocational-excellence",
+      "url": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "label": "scanning-tool-pove-water-project",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/eu-stem-coalition",
+      "label": "< Previous",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/first-intervision-platforms-of-vocational-excellence",
+      "label": "Next >",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://youtu.be/bFLhj1ouYww",
+      "label": "online conference Tknika organized on 16 June",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://player.vimeo.com/video/426169551",
+      "label": "426169551",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/european-platform-for-urban-greening",
+      "label": "european-platform-for-urban-greening",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/kick-off-meeting-european-platform-for-urban-greening",
+      "label": "Kick-off meeting European Platform for Urban Greening",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "label": "scanning-tool-pove-water-project",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/new-erasmus-programme-has-started",
+      "label": "new-erasmus-programme-has-started",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/cove-match-making-map",
+      "label": "cove-match-making-map",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "label": "how-to-establish-a-public-private-partnership",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/virtual-reality-and-augmented-reality-where-to-start",
+      "label": "virtual-reality-and-augmented-reality-where-to-start",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "url": "https://wearekatapult.eu/the-future-of-work",
+      "label": "the-future-of-work",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-live-international-water-project-week",
+      "url": "http://www.povewater.eu",
+      "label": "PoVE Water",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-live-international-water-project-week",
+      "url": "https://wearekatapult.eu/best-practice-center-of-vocational-excellence-water",
+      "label": "best-practice-center-of-vocational-excellence-water",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-live-international-water-project-week",
+      "url": "https://wearekatapult.eu/european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "label": "european-professionals-meet-online-to-work-on-tomorrows-vocational-water-sector-professional",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-live-international-water-project-week",
+      "url": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "label": "scanning-tool-pove-water-project",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://www.worldhorticenter.nl/en/home",
+      "label": "CIV Horticulture & Starting Materials/Horti Campus Westland",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://masterplanzuidholland.nl/",
+      "label": "Master plan MEI",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://fontys.edu/About-Fontys-4/Centre-of-Expertise-HTSM.htm",
+      "label": "Center of Expertise High Tech Systems & Materials",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://specials.han.nl/sites/biocentre-en/",
+      "label": "Center of Expertise HAN BioCentre",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "http://civ-food-noord.nl/?page_id=40",
+      "label": "CIV agile craftsmanship",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://www.rocvanflevoland.nl/Voor-bedrijven/Samenwerken_ROCvF/Publiek-private-samenwerkingen",
+      "label": "TechPack Flevoland",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://wearekatapult.eu/building-blocks/context-rich-infrastructure",
+      "label": "context-rich-infrastructure",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://wearekatapult.eu/building-block-professional-innovation",
+      "label": "building-block-professional-innovation",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://wearekatapult.eu/network-building",
+      "label": "network-building",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://wearekatapult.eu/building-block-life-long-learning",
+      "label": "building-block-life-long-learning",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://wearekatapult.eu/applied-research",
+      "label": "applied-research",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/improving-education",
+      "url": "https://wearekatapult.eu/virtual-reality-and-augmented-reality-where-to-start",
+      "label": "virtual-reality-and-augmented-reality-where-to-start",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://wearekatapult.eu/how-do-you-build-a-succesful-public-private-partnership",
+      "label": "< Previous",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://wearekatapult.eu/eu-stem-coalition",
+      "label": "Next >",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://vimeo.com/543536065",
+      "label": "here",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://player.vimeo.com/video/543536065",
+      "label": "543536065",
+      "status": "Nagranie: zachowany link, bez pobrania filmu."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://vimeo.com/wijzijnkatapult",
+      "label": "wijzijnkatapult",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://vimeo.com",
+      "label": "Vimeo",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://wearekatapult.eu/centers-of-vocational-excellence-explained",
+      "label": "centers-of-vocational-excellence-explained",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://wearekatapult.eu/network-building",
+      "label": "network-building",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/how-to-establish-a-public-private-partnership",
+      "url": "https://wearekatapult.eu/cove-match-making-map",
+      "label": "cove-match-making-map",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://ju.dk/international-green-academy/",
+      "label": "Green Academy in Aarhus",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://www.platformurbangreening.eu/",
+      "label": "European Platform for Urban Greening",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://ec.europa.eu/programmes/erasmus-plus/programme-guide/part-b/key-action-2/partnerships-cooperation/centres-vocational-excellence_en",
+      "label": "Erasmus Centers of Vocational Excellence",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://www.youtube.com/embed/MSLVjoeNTgo",
+      "label": "YouTube video player",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://wearekatapult.eu/european-platform-for-urban-greening",
+      "label": "european-platform-for-urban-greening",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://wearekatapult.eu/building-block-life-long-learning",
+      "label": "building-block-life-long-learning",
+      "status": "Pobrano kopię lokalną."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://wearekatapult.eu/new-erasmus-programme-has-started",
+      "label": "new-erasmus-programme-has-started",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://wearekatapult.eu/one-year-into-the-european-platform-of-urban-greening",
+      "label": "one-year-into-the-european-platform-of-urban-greening",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    },
+    {
+      "source": "https://wearekatapult.eu/first-impressions-cove-urban-greening-denmark",
+      "url": "https://wearekatapult.eu/urban-greening-in-valencia",
+      "label": "urban-greening-in-valencia",
+      "status": "Zachowany odnośnik; bez osobnej kopii."
+    }
+  ]
+}

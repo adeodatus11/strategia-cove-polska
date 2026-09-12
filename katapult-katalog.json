@@ -1,0 +1,139 @@
+{
+  "date": "2026-09-12",
+  "source": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+  "type": "Polskie omówienia i autorskie zastosowania, nie pełne tłumaczenia",
+  "tools": [
+    {
+      "id": "interesariusze",
+      "title_pl": "Analiza interesariuszy",
+      "title_original": "Stakeholder Analysis",
+      "format": "Artykuł + dostęp na zapytanie",
+      "url": "https://wearekatapult.eu/tools/stakeholderanalysis",
+      "attribution": "Katapult",
+      "stage": 1,
+      "summary_pl": "Badanie potrzeb, oczekiwań i oceny współpracy przez osoby należące do partnerstwa oraz pozostające poza nim. Wyniki służą rozmowie o dalszym kierunku działania. Katapult wskazuje, że uczestnicy istniejącej współpracy mogą oceniać ją bardziej pozytywnie niż osoby z zewnątrz.",
+      "availability": "Właściwy kwestionariusz jest dostępny po kontakcie z Katapult. Przycisk pobierania na stronie prowadzi do innego materiału: Reflection on Collaboration.",
+      "application_cove": "Zaprosić do diagnozy także firmy i szkoły, które dotąd nie uczestniczyły w COVE Polska."
+    },
+    {
+      "id": "pestle",
+      "title_pl": "Skan otoczenia PESTLE",
+      "title_original": "Vocational Excellence Scanning tool — Context scan",
+      "format": "PDF · 6 stron",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Tool-PESTLE-scan.pdf",
+      "attribution": "PoVE Water; materiał udostępniany przez Katapult",
+      "stage": 1,
+      "summary_pl": "Skan łączy sześć wymiarów otoczenia — polityczny, ekonomiczny, społeczny, technologiczny, prawny i środowiskowy — z rozpoznaniem mocnych i słabych stron, szans oraz zagrożeń. Oryginał powstał dla ekosystemu sektora wodnego i zawiera przykład szkocki.",
+      "availability": "Pobrano PDF. Przykłady sektorowe wymagają sprawdzenia przed wykorzystaniem w innym regionie.",
+      "application_cove": "Dla każdego ustalenia zapisać źródło, datę i konsekwencję dla jednej proponowanej usługi."
+    },
+    {
+      "id": "bmc",
+      "title_pl": "Model działania partnerstwa",
+      "title_original": "Business Model Canvas",
+      "format": "PDF · 4 strony",
+      "url": "https://www.wearekatapult.eu/files/downloads/BMC%20English.pdf",
+      "attribution": "Katapult i New Business Lab, na podstawie Osterwaldera i Pigneura",
+      "stage": 2,
+      "summary_pl": "Dziewięciopolowy model pomaga uzgodnić, komu partnerstwo służy, jaką wartość zapewnia, jak działa i jak się utrzymuje. W wersji dla współpracy edukacji i firm uwzględnia korzyści gospodarcze, społeczne i obywatelskie. Może być wielokrotnie aktualizowany.",
+      "availability": "Pobrano PDF. Dostępny jest również artykuł Katapult objaśniający użycie narzędzia.",
+      "application_cove": "Oddzielnie porównać wariant sekretariatu sieci i wariant operatora szkoleń; nie mieszać ich budżetów."
+    },
+    {
+      "id": "empatia",
+      "title_pl": "Perspektywa odbiorcy",
+      "title_original": "Empathy Map",
+      "format": "PNG · plansza",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Empathy-map.png",
+      "attribution": "Event Design Collective GmbH (2018); adaptacja z XPLANE; link w Katapult",
+      "stage": 2,
+      "summary_pl": "Plansza porządkuje spojrzenie odbiorcy: jego otoczenie, wypowiedzi, zachowania, myśli, odczucia, trudności i oczekiwane korzyści. Wspiera rozumienie sytuacji konkretnej grupy zamiast projektowania oferty wyłącznie z perspektywy organizatora.",
+      "availability": "Pobrano PNG. Autorstwo podano zgodnie ze stopką planszy; nie jest to samodzielna publikacja autorstwa Katapult.",
+      "application_cove": "Przygotować osobne profile nauczyciela, ucznia i mentora z MŚP. Oddzielić wypowiedzi z rozmów od hipotez zespołu."
+    },
+    {
+      "id": "projekt",
+      "title_pl": "Karta projektu",
+      "title_original": "Action plan",
+      "format": "PDF · 6 stron",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Action-plan-format-projects.pdf",
+      "attribution": "Format udostępniony przez Katapult w roadmapie",
+      "stage": 3,
+      "summary_pl": "Format prowadzi od uzasadnienia projektu przez cel, zakres i produkty do organizacji realizacji. Łączy planowane rezultaty z przeszkodami oraz działaniami, które mają je usunąć. Ułatwia określenie granic projektu i zasobów potrzebnych do jego wykonania.",
+      "availability": "Pobrano PDF. W oryginale pojawia się dzielenie rocznej wartości przez „365 working days”; takiego założenia nie przenosimy do polskiej karty.",
+      "application_cove": "Dla pilotażu wiarygodności AI ustalić zadanie końcowe, kryterium jakości, eksperta branżowego i koszt obsługi."
+    },
+    {
+      "id": "warsztaty",
+      "title_pl": "Angażowanie partnerów",
+      "title_original": "Workshops",
+      "format": "Oferta warsztatów",
+      "url": "https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/",
+      "attribution": "Katapult",
+      "stage": 4,
+      "summary_pl": "Roadmapa wskazuje warsztaty dotyczące współpracy z MŚP, opowiadania o przedsięwzięciu, komunikacji i prowadzenia relacji z partnerami.",
+      "availability": "W roadmapie nie udostępniono plików tych warsztatów. Kontakt wskazany przez autora: hello@wearekatapult.eu.",
+      "application_cove": "Sprawdzić propozycję usługi w rozmowie z trzema firmami; zapisać warunki, przy których rzeczywiście wezmą udział."
+    },
+    {
+      "id": "porozumienie",
+      "title_pl": "Porozumienie o współpracy",
+      "title_original": "CoVE Water Blueprint / MoU",
+      "format": "PDF · 14 stron",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Blueprint-cooperation-agreement-CoVE.pdf",
+      "attribution": "Platform of Vocational Excellence Water; udostępnienie Katapult",
+      "stage": 5,
+      "summary_pl": "Przykład porozumienia dla regionalnego CoVE służy opisaniu współpracy, ról, działań i wkładów partnerów. Dokument zawiera przykładowe rozwiązania organizacyjne i finansowe do dostosowania do konkretnego partnerstwa.",
+      "availability": "Pobrano PDF. To materiał wyjściowy do uzgodnień, a nie gotowa umowa dla polskiej instytucji.",
+      "application_cove": "Uzgodnić gospodarza środków, zasady podejmowania decyzji, dostęp do zasobów oraz warunki wejścia i wyjścia z partnerstwa."
+    },
+    {
+      "id": "dojrzalosc",
+      "title_pl": "Dojrzałość partnerstwa",
+      "title_original": "CoVE Phase Model",
+      "format": "PDF · 10 stron",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Phase%20model.pdf",
+      "attribution": "The Innovation Family; udostępnienie Katapult; wersja 20231207",
+      "stage": 5,
+      "summary_pl": "Model wyróżnia pięć poziomów: rozpoczęcie, rozwijanie, walidację, dalszy rozwój i trwałość. Pomaga rozmawiać o przygotowaniu organizacji, jej ofercie i zdolności do współpracy. Zestaw obejmuje cztery wymiary, po cztery kryteria w każdym.",
+      "availability": "Pobrano PDF. Pięć poziomów dojrzałości to inny podział niż siedem etapów roadmapy.",
+      "application_cove": "Ocenić oddzielnie gotowość zespołu, potwierdzony popyt i zasoby. Każdą ocenę poprzeć dowodem."
+    },
+    {
+      "id": "peer",
+      "title_pl": "Przegląd koleżeński",
+      "title_original": "Peer Reviews",
+      "format": "PDF · 22 strony",
+      "url": "https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Peer%20Reviews.pdf",
+      "attribution": "The Innovation Family; udostępnienie Katapult; wersja 20231207",
+      "stage": 6,
+      "summary_pl": "Przegląd organizują osoby z innych centrów, które poznają dokumentację i rozmawiają z uczestnikami partnerstwa. Jego wartość wynika z zewnętrznej perspektywy, wymiany doświadczeń i zaleceń dotyczących rozwoju. Materiał opisuje role zespołu oraz przebieg przygotowania, wizyty i informacji zwrotnej.",
+      "availability": "Pobrano PDF z artykułu „Peer Review”. Należy uzgodnić zakres i dostępność recenzentów; samoocena nie oznacza certyfikacji.",
+      "application_cove": "Poprosić recenzentów o ocenę dwóch pilotaży, podziału odpowiedzialności i możliwości utrzymania sekretariatu."
+    },
+    {
+      "id": "refleksja",
+      "title_pl": "Przegląd jakości współpracy",
+      "title_original": "Reflection on Collaboration",
+      "format": "PDF · 7 stron",
+      "url": "https://wearekatapult.eu/files/downloads/Tool%20Reflection%20on%20Collaboration.pdf",
+      "attribution": "Common Eye we współpracy z PTvT i VSLS; plansze wskazują VO-raad",
+      "stage": 6,
+      "summary_pl": "Materiał wspiera rozmowę o wspólnych ambicjach, interesach, relacjach, organizacji i przebiegu współpracy. Łączy rozpoznanie trudności z zapisem dalszych ustaleń. Powrót do notatek pozwala sprawdzić, czy uzgodnione działania zostały wykonane.",
+      "availability": "Pobrano PDF z przycisku na stronie Stakeholder Analysis. To narzędzie refleksji nad współpracą, nie kwestionariusz badania interesariuszy.",
+      "application_cove": "Po pierwszym pilotażu przeprowadzić rozmowę partnerów o rzeczywistym obciążeniu, korzyściach i niewykonanych zobowiązaniach."
+    },
+    {
+      "id": "skan",
+      "title_pl": "Diagnoza ekosystemu w PoVE Water",
+      "title_original": "Scanning tool Platform of Vocational Excellence Water Project",
+      "format": "Artykuł",
+      "url": "https://wearekatapult.eu/scanning-tool-pove-water-project",
+      "attribution": "Katapult / PoVE Water; artykuł z 10.02.2021",
+      "stage": 1,
+      "summary_pl": "Opis doświadczeń projektu pokazuje połączenie mapowania interesariuszy, rozpoznania zmian w otoczeniu, pogłębionego poznania potrzeb partnerów i uzgodnienia wartości centrum. Jest przykładem zastosowania narzędzi, a nie osobnym kompletnym formularzem badawczym.",
+      "availability": "Pobrano artykuł. Podlinkowany adres povewater.eu/scanning-tools/ zwracał błąd 404 w dniu sprawdzenia.",
+      "application_cove": "Włączyć diagnozę do jednego procesu warsztatowego, korzystając z istniejących danych regionalnych."
+    }
+  ]
+}
