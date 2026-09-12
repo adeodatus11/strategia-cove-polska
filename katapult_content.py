@@ -79,6 +79,7 @@ parts=['# Katapult: narzędzia rozwoju CoVE\n',
 'Polski przewodnik po materiałach • Sprawdzenie źródeł: 12 września 2026 r.\n',
 '**Źródło metody:** roadmapa opracowana w Platform of Vocational Excellence Water i opublikowana przez Katapult. Poniżej znajdują się krótkie polskie omówienia, odnośniki do oryginałów oraz propozycje zastosowania w COVE Polska. **Nie jest to oficjalne tłumaczenie Katapult.**\n',
 f'[Otwórz oryginalną roadmapę]({road}) · [Katalog narzędzi JSON](katapult-katalog.json) · [Rejestr sprawdzonych linków](katapult-linki.html)\n',
+'**Priorytety COVE Polska:** [Rozwój kształcenia i uczenie się przez całe życie — model usług i pilotaż](edukacja-lll.html).\n',
 '## Siedem etapów pracy\n',
 '<div class="roadmap">']
 for i,(title,summary,ids,result) in enumerate(stages,1):

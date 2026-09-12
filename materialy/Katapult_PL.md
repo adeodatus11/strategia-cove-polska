@@ -6,6 +6,8 @@ Polski przewodnik po materiałach • Sprawdzenie źródeł: 12 września 2026 r
 
 [Otwórz oryginalną roadmapę](https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/) · [Katalog narzędzi JSON](katapult-katalog.json) · [Rejestr sprawdzonych linków](../katapult-linki.html)
 
+**Priorytety COVE Polska:** [Rozwój kształcenia i uczenie się przez całe życie — model usług i pilotaż](../edukacja-lll.html).
+
 ## Siedem etapów pracy
 
 <div class="roadmap">
