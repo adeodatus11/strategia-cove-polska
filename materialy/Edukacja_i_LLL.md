@@ -1,8 +1,8 @@
-# Dwa priorytety COVE Polska: rozwój kształcenia i uczenie się przez całe życie
+# Edukacja i LLL — obszary pilotaży COVE Polska
 
-Propozycja do rozmowy z partnerami • 12 września 2026 r.
+Materiał pomocniczy do planu X 2026–IX 2027 • aktualizacja: 14 września 2026 r.
 
-**Proponuję potraktować te dwa bloki jako rdzeń oferty COVE Polska.** Wspólna praca szkół i firm nad zadaniami zawodowymi może jednocześnie poprawiać kształcenie uczniów, rozwijać nauczycieli i dostarczać krótkich form uczenia się dla pracowników. Sekretariat COVE Polska organizowałby tę współpracę i dbał o jakość rezultatów.
+**Rozwój kształcenia i LLL są obszarami sprawdzenia dwóch pilotaży. Główną funkcją COVE Polska w pierwszym roku jest koordynacja współpracy we Wrocławiu, z Gminą Wrocław jako proponowanym gospodarzem.** Wspólna praca szkół i firm nad zadaniami zawodowymi może jednocześnie poprawiać kształcenie uczniów, rozwijać nauczycieli i dostarczać krótkich form uczenia się dla pracowników. Sekretariat COVE Polska organizowałby tę współpracę i dbał o jakość rezultatów.
 
 ## Co mówią źródła Katapult
 
@@ -36,9 +36,9 @@ Poniższy model jest **autorską propozycją dla COVE Polska**, rozwijającą wc
 
 Wspólne mogą być problem, dokumentacja i kryteria jakości. **Inne powinny być poziom zadania, sposób wsparcia i organizacja uczenia się ucznia oraz doświadczonego pracownika.** Nie wystarczy udostępnić wszystkim tego samego kursu.
 
-## Trzy konkretne usługi instytucji parasolowej
+## Trzy rodzaje działań w ramach pilotaży
 
-| Usługa COVE Polska | Co otrzymuje odbiorca | Co organizuje sekretariat | Dowód wykonania |
+| Działanie organizowane z partnerami | Co otrzymuje odbiorca | Co organizuje sekretariat | Dowód wykonania |
 |---|---|---|---|
 | Pracownia wspólnych zadań zawodowych | Szkoła: aktualne zadania i kryteria oceny. Firma: możliwość wpływu na przygotowanie przyszłych pracowników. | Dobór par nauczyciel–mentor, harmonogram pracy, przegląd branżowy i uzgodnienie wykorzystania materiałów. | Zadanie zastosowane na zajęciach; prace uczniów; poprawki po ocenie. |
 | Rozwój nauczycieli w środowisku pracy | Nauczyciel: poznanie procesu i materiał możliwy do użycia w nauczaniu. | Dostęp do firmy, określenie celu wizyty lub pracy projektowej, opiekę mentora i czas na przygotowanie zajęć. | Zmiana konkretnego ćwiczenia oraz jej zastosowanie z uczniami. |
@@ -59,9 +59,9 @@ Proponowany temat wykorzystuje [wcześniej opracowane cele weryfikacji informacj
 
 Ten sam schemat można później wykorzystać do innych potrzeb: dokumentowania procesu, jakości obsługi, ograniczania strat materiałowych lub wdrażania nowych osób. Każdy temat wymaga potwierdzenia przez odbiorców.
 
-## Pilotaż na 12 tygodni
+## Przykładowy cykl pracy w okresie marzec–czerwiec 2027
 
-Robocza skala: dwie placówki, trzy firmy i cztery pary nauczyciel–mentor. Liczbę uczniów i pracowników dopasować po ustaleniu czasu oraz zaplecza. Nie są to deklaracje udziału.
+Poniżej przykład 12-tygodniowego cyklu pojedynczego działania, podporządkowany [planowi operacyjnemu](../operacyjny.html). Łącznie oba pilotaże powinny objąć co najmniej sześć różnych firm i trzy różne placówki. Podział uczestników i liczebność grup należy ustalić przy wycenie; nie są to deklaracje udziału. Pomiar odroczony może być uzupełniony w lipcu.
 
 | Termin | Działanie | Produkt / decyzja |
 |---|---|---|
@@ -81,9 +81,11 @@ Robocza skala: dwie placówki, trzy firmy i cztery pary nauczyciel–mentor. Lic
 - **Dostępność:** jakie terminy, miejsce, sprzęt i forma wsparcia umożliwią rzeczywisty udział dorosłych.
 - **Kontynuacja:** kto utrzyma materiały po zakończeniu pilotażu i co uzasadni kolejną edycję.
 
-## Zapis do strategii — propozycja
+## Zapis dotyczący zakresu pilotaży
 
 > COVE Polska rozwija współpracę szkół i przedsiębiorstw służącą aktualizacji treści kształcenia, uczeniu się na rzeczywistych zadaniach zawodowych oraz doskonaleniu kompetencji przez całe życie. Organizuje wspólne zespoły nauczycieli i ekspertów firm, wspiera przygotowanie materiałów oraz krótkich modułów dla dorosłych i ocenia wykorzystanie nabytych umiejętności w praktyce. Warunkiem realizacji usług jest uzgodnienie odpowiedzialności, czasu pracy, zasobów i sposobu utrzymania jakości.
+
+Opis powyżej dotyczy działań realizowanych przez partnerów; nie ustanawia trzech dodatkowych programów w pierwszym roku.
 
 **Mierzyć przede wszystkim:** zastosowanie materiału na zajęciach, samodzielne wykonanie zadania przez uczestnika, transfer do pracy, nakład czasu partnerów i zainteresowanie kolejną edycją. Liczba spotkań i wydanych zaświadczeń może opisywać aktywność, ale nie wystarcza do oceny efektów.
 

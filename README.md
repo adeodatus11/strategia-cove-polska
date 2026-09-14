@@ -17,3 +17,7 @@ Edytuj odpowiedni plik Markdown w `materialy/`, następnie uruchom `python3 buil
 Treści działu edytuje się w `katapult_content.py`, po czym uruchamia `python3 katapult_content.py` i `python3 build.py`. Rejestr linków jest zapisany w `katapult-linki.json` i `materialy/Katapult_linki.md`. Kopie pobranych oryginałów są przechowywane w lokalnym archiwum poza publicznym repozytorium.
 
 Karty warsztatowe zapisują notatki wyłącznie w localStorage przeglądarki. Możliwy jest eksport JSON i wydruk. Nie ma serwera zbierającego treść notatek.
+
+## Wersja miejska — 14 września 2026
+
+Strona główna i `plan.html` są generowane z tego samego dokumentu: propozycji dla Gminy Wrocław. `operacyjny.html` zawiera zadania, odpowiedzialność, KPI i strukturę wyceny na X 2026–IX 2027. Edukacja i LLL to obszary pilotaży; główną funkcją COVE jest koordynacja współpracy. Gmina jest proponowanym gospodarzem, a podane role i liczby wymagają uzgodnienia.

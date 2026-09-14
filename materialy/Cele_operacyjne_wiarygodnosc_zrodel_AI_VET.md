@@ -1,5 +1,7 @@
 # Cele operacyjne projektu „Wiarygodność źródeł”
 
+Materiał pomocniczy z 10.09.2026. Aktualny zakres działań COVE Polska określa [plan operacyjny dla Wrocławia, X 2026–IX 2027](../operacyjny.html). Rekomendacje ogólne nie są listą zobowiązań pierwszego roku.
+
 Data: 10 września 2026 r.
 Zakres: ocena wiarygodności informacji internetowych i wyników AI w edukacji branżowej oraz VET.
 Status: zapis do wykorzystania przy projektowaniu zajęć, ćwiczeń i oceniania.

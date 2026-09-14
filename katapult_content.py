@@ -17,7 +17,7 @@ tools=[
 ('bmc','Model działania partnerstwa','Business Model Canvas','PDF · 4 strony',BASE+'downloads/BMC%20English.pdf','Katapult i New Business Lab, na podstawie Osterwaldera i Pigneura',2,
  'Dziewięciopolowy model pomaga uzgodnić, komu partnerstwo służy, jaką wartość zapewnia, jak działa i jak się utrzymuje. W wersji dla współpracy edukacji i firm uwzględnia korzyści gospodarcze, społeczne i obywatelskie. Może być wielokrotnie aktualizowany.',
  'Pobrano PDF. Dostępny jest również artykuł Katapult objaśniający użycie narzędzia.',
- 'Oddzielnie porównać wariant sekretariatu sieci i wariant operatora szkoleń; nie mieszać ich budżetów.'),
+ 'Porównać warianty obsługi potrzeb przez sekretariat przy proponowanym gospodarzu — Gminie Wrocław. Oddzielić koszt koordynacji od kosztów pilotaży.'),
 ('empatia','Perspektywa odbiorcy','Empathy Map','PNG · plansza',BASE+'Tools%20voor%20CoVE/Empathy-map.png','Event Design Collective GmbH (2018); adaptacja z XPLANE; link w Katapult',2,
  'Plansza porządkuje spojrzenie odbiorcy: jego otoczenie, wypowiedzi, zachowania, myśli, odczucia, trudności i oczekiwane korzyści. Wspiera rozumienie sytuacji konkretnej grupy zamiast projektowania oferty wyłącznie z perspektywy organizatora.',
  'Pobrano PNG. Autorstwo podano zgodnie ze stopką planszy; nie jest to samodzielna publikacja autorstwa Katapult.',
@@ -60,12 +60,12 @@ blocks=[
 ('siec','Organizowanie sieci współpracy','Network Building','https://wearekatapult.eu/network-building','Niewielki zespół może kojarzyć partnerów, utrzymywać relacje i ułatwiać dostęp do wiedzy oraz infrastruktury. Zadania edukacyjne i projektowe wykonują partnerzy dysponujący odpowiednimi zasobami.','Sekretariat COVE Polska prowadzący zgłoszenia potrzeb i dobierający wykonawców usług.')]
 stages=[
 ('Rozpoznaj ekosystem','Ustal potrzeby i partnerów.',['interesariusze','pestle','skan'],'Mapa instytucji, potrzeb i istniejących usług; lista luk do sprawdzenia.'),
-('Uzgodnij odbiorców i model','Opisz odbiorców oraz sposób tworzenia wartości.',['bmc','empatia'],'Porównanie dwóch wariantów działania COVE Polska i wybór założeń do testu.'),
+('Uzgodnij odbiorców i model','Opisz odbiorców oraz sposób tworzenia wartości.',['bmc','empatia'],'Porównanie wariantów usług i Canvas 1.0 w styczniu 2027, w ramach miejskiej koordynacji.'),
 ('Zaprojektuj ofertę','Przełóż potrzeby na działania i zasoby.',['bmc','projekt'],'Dwie karty pilotażu z liderami, odbiorcami i nakładem pracy.'),
 ('Zaangażuj uczestników','Dopasuj komunikację do grup odbiorców.',['warsztaty'],'Potwierdzone warunki uczestnictwa szkół i firm; lista barier.'),
-('Ustal zasady i uruchom','Uzgodnij współpracę, realizację i finansowanie.',['porozumienie','projekt','dojrzalosc'],'Decyzja o gospodarzu sekretariatu i uruchomieniu działań w zabezpieczonym budżecie.'),
+('Ustal zasady i uruchom','Uzgodnij współpracę, realizację i finansowanie.',['porozumienie','projekt','dojrzalosc'],'Potwierdzenie ról i zasobów przed rozpoczęciem pilotaży w marcu 2027; Gmina Wrocław jako proponowany gospodarz.'),
 ('Zapytaj inne centra','Uzyskaj zewnętrzną informację zwrotną.',['peer','refleksja'],'Notatka z przeglądu, priorytety zmian i odpowiedzialność za ich wykonanie.'),
-('Popraw i powtórz','Zaktualizuj model na podstawie doświadczeń.',['bmc'],'Strategia 1.0 oparta na wynikach pilotaży oraz termin kolejnego przeglądu.')]
+('Popraw i powtórz','Zaktualizuj model na podstawie doświadczeń.',['bmc'],'Canvas 2.0 i plan drugiego roku do września 2027, na podstawie wyników pilotaży.')]
 forms=[
 ('potrzeba','Dowód potrzeby',['Jaki problem i u kogo zaobserwowaliśmy?','Jakie źródło lub rozmowa to potwierdza?','Kto już pomaga w jego rozwiązaniu?','Co COVE Polska może wnieść dodatkowo?']),
 ('otoczenie','Otoczenie i decyzja',['Zmiana w otoczeniu oraz jej źródło i data','Skutek dla nauczycieli, uczniów lub firm','Co możemy sprawdzić w ciągu miesiąca?','Decyzja, osoba odpowiedzialna i termin']),
@@ -79,7 +79,7 @@ parts=['# Katapult: narzędzia rozwoju CoVE\n',
 'Polski przewodnik po materiałach • Sprawdzenie źródeł: 12 września 2026 r.\n',
 '**Źródło metody:** roadmapa opracowana w Platform of Vocational Excellence Water i opublikowana przez Katapult. Poniżej znajdują się krótkie polskie omówienia, odnośniki do oryginałów oraz propozycje zastosowania w COVE Polska. **Nie jest to oficjalne tłumaczenie Katapult.**\n',
 f'[Otwórz oryginalną roadmapę]({road}) · [Katalog narzędzi JSON](katapult-katalog.json) · [Rejestr sprawdzonych linków](katapult-linki.html)\n',
-'**Priorytety COVE Polska:** [Rozwój kształcenia i uczenie się przez całe życie — model usług i pilotaż](edukacja-lll.html).\n',
+'**Pierwszy rok COVE Polska:** [miejska koordynacja i plan operacyjny X 2026–IX 2027](operacyjny.html). [Edukacja i LLL](edukacja-lll.html) są obszarami pilotaży.\n',
 '## Siedem etapów pracy\n',
 '<div class="roadmap">']
 for i,(title,summary,ids,result) in enumerate(stages,1):
@@ -90,12 +90,11 @@ parts+=['</div>','\nEtapy odnoszą się do roadmapy Katapult / PoVE Water. Propo
 for t in tools:
  id,title,original,fmt,url,attr,stage,summary,status,app=t
  parts.append(f'<section class="kat-tool" id="tool-{id}" data-search="{H(" ".join(map(str,t)).lower())}"><div class="tool-meta">Etap {stage} · {H(fmt)}</div><h3>{H(title)}</h3><p class="original-title">{H(original)}</p><p>{H(summary)}</p><p class="availability">{H(status)}</p><p class="application"><strong>Propozycja dla COVE Polska:</strong> {H(app)}</p><p class="credit"><strong>Autor / źródło:</strong> {H(attr)}.</p><a class="source-button" href="{H(url)}">Otwórz oryginał — {H(fmt.split(" · ")[0])}</a></section>')
-parts+=['\n## Sześć obszarów współpracy\n',f'Katapult opisuje różne funkcje partnerstwa i zaleca stopniowy rozwój oferty. Poniższe nazwy odpowiadają artykułom z kolekcji [Building blocks](https://wearekatapult.eu/building-blocks/).\n','<div class="blocks-grid" id="obszary">']
+parts+=['\n## Sześć obszarów współpracy\n',f'Katapult opisuje różne funkcje partnerstwa i zaleca stopniowy rozwój oferty. To katalog możliwości, nie lista programów uruchamianych jednocześnie. W roku pierwszym COVE Polska skupia się na koordynacji i dwóch pilotażach. Poniższe nazwy odpowiadają artykułom z kolekcji [Building blocks](https://wearekatapult.eu/building-blocks/).\n','<div class="blocks-grid" id="obszary">']
 for id,title,original,url,summary,app in blocks:
  parts.append(f'<section class="building-block"><h3>{H(title)}</h3><p class="original-title">{H(original)}</p><p>{H(summary)}</p><p><strong>W COVE Polska — propozycja:</strong> {H(app)}</p><a href="{H(url)}">Artykuł Katapult</a></section>')
 parts+=['</div>','\n## Karty do pracy nad COVE Polska\n','Poniższe karty są autorskim uzupełnieniem tego opracowania. Nie odtwarzają formularzy Katapult. Możesz je wypełnić podczas warsztatu i wyeksportować notatki. Zapis odbywa się lokalnie w tej przeglądarce; nie jest współdzielony z partnerami.\n','<div class="worksheet-actions"><button id="export-notes" type="button">Pobierz notatki JSON</button><button id="print-notes" type="button">Drukuj wypełnione karty</button><span id="save-status" role="status" aria-live="polite"></span></div><div class="worksheets">']
 for id,title,fields in forms:
- if i==3:links+=' <a href="#obszary">Sześć obszarów współpracy</a>'
  parts.append(f'<details class="worksheet"><summary>{H(title)}</summary><div class="worksheet-fields">')
  for n,label in enumerate(fields):
   key=f'{id}-{n}';parts.append(f'<label for="{key}">{H(label)}</label><textarea id="{key}" data-note="{key}" data-label="{H(title+" — "+label)}" rows="3" placeholder="Wpisz ustalenia zespołu…"></textarea>')

@@ -42,7 +42,7 @@ Dziewięciopolowy model pomaga uzgodnić, komu partnerstwo służy, jaką warto�
 
 Pobrano PDF. Dostępny jest również artykuł Katapult objaśniający użycie narzędzia.
 
-Autorska propozycja dla COVE Polska: Oddzielnie porównać wariant sekretariatu sieci i wariant operatora szkoleń; nie mieszać ich budżetów.
+Autorska propozycja dla COVE Polska: Porównać warianty obsługi potrzeb przez sekretariat przy proponowanym gospodarzu — Gminie Wrocław. Oddzielić koszt koordynacji od kosztów pilotaży.
 
 
 ## Perspektywa odbiorcy

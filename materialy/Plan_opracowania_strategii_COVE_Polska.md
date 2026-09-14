@@ -1,158 +1,98 @@
-# COVE Polska we Wrocławiu — plan opracowania strategii rozwoju
+# COVE Polska we Wrocławiu
 
-Wersja robocza do pracy z partnerami • 10 września 2026 r. • Horyzont proponowanej strategii: 2027–2030
+Propozycja rozwoju miejskiej współpracy w edukacji zawodowej • październik 2026 – wrzesień 2027
 
-## 1. Rekomendowany kierunek
+**Wrocław dysponuje szkołami zawodowymi, zapleczem praktycznego kształcenia, uczelniami i instytucjami współpracującymi z przedsiębiorstwami. COVE Polska mogłoby ułatwiać wspólne korzystanie z tego potencjału: przyjmować potrzeby, łączyć właściwych partnerów i pomagać doprowadzać przedsięwzięcia do mierzalnego rezultatu.**
 
-**COVE Polska powinno rozwijać się jako stały operator współpracy szkół, firm, uczelni i instytucji wspierających umiejętności, z niewielkim sekretariatem we Wrocławiu i zasobami rozproszonymi u partnerów.** Jego podstawowym produktem powinny być wspólnie realizowane usługi i przedsięwzięcia: dobre praktyki zawodowe, rozwój nauczycieli, rozwiązywanie problemów MŚP oraz wiarygodne i odpowiedzialne używanie AI w pracy.
+Propozycja zakłada **Gminę Wrocław jako gospodarza**, mały sekretariat i realizację działań przez partnerów. Pierwszy rok służy sprawdzeniu tego sposobu współpracy na terenie Wrocławia. Jest to materiał do rozmowy z miastem; nie opisuje podjętej decyzji Gminy ani zobowiązań wskazanych instytucji.
 
-Proponowana misja: **„Łączymy edukację zawodową, naukę i przedsiębiorstwa, aby mieszkańcy i firmy Dolnego Śląska mogli rozwijać, sprawdzać i stosować umiejętności potrzebne w zmieniającej się pracy”.**
+## Czym jest CoVE
 
-Punktem startowym jest Wrocław i jego otoczenie gospodarcze. Rozszerzanie usług na region powinno wynikać z popytu i zdolności partnerów. Nazwa „Polska” może wspierać upowszechnianie rozwiązań i współpracę krajową; sama nazwa nie daje mandatu do reprezentowania całego polskiego VET.
+CoVE to *Centre of Vocational Excellence* — centrum doskonałości zawodowej. W podejściu europejskim łączy edukację zawodową z przedsiębiorstwami i innymi uczestnikami lokalnego ekosystemu umiejętności. Może opierać się na współpracy instytucji, a jego zadania obejmują rozwój kształcenia, partnerstwa oraz trwałe zarządzanie i finansowanie. [Komisja Europejska / Erasmus+ — Centres of Vocational Excellence](https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence).
 
-Publiczna strona COVE Polska wskazuje Politechnikę Wrocławską, ZSZ5 i Dolnośląską Izbę Rzemieślniczą oraz związek z WIN4SMEs. To punkt wyjścia do rozmowy o istniejącym dorobku, a nie potwierdzenie aktualnych zobowiązań finansowych lub uprawnień tych partnerów. [COVE Polska](https://covepolska.pl/)
+W proponowanym modelu **COVE Polska pełniłoby funkcję instytucji parasolowej dla współpracy wrocławskiej edukacji zawodowej z gospodarką**. Wspólny punkt kontaktu, mapa dostępnych zasobów i zasady prowadzenia przedsięwzięć pomagałyby porządkować działania szkół, BCU, uczelni oraz firm. Zajęcia, szkolenia i prace eksperckie pozostawałyby zadaniem partnerów.
 
-**Założenie organizacyjne:** nie potwierdzono formy prawnej, stałego zespołu ani budżetu COVE Polska. Plan zakłada najpierw uzgodnienie gospodarza sekretariatu i zasad konsorcjum. Jeżeli istnieją już odpowiednie struktury, należy wykorzystać je po audycie. Oddzielną osobowość prawną rozważać wtedy, gdy wymaga tego model usług i finansowania.
+„Parasol” oznacza tu wspólną koordynację, informację i obsługę współpracy. Nie zakłada przenoszenia uprawnień szkół, organów prowadzących lub innych instytucji ani budowy nowego obiektu. Nazwa COVE Polska jest nazwą inicjatywy; zakres pierwszego roku obejmuje Wrocław.
 
-## 2. Co wnoszą materiały o ekosystemach CoVE
+## Co może zyskać Gmina Wrocław
 
-| Źródło | Ustalenie | Zastosowanie w COVE Polska |
+| Potrzeba miasta | Proponowany wkład COVE Polska | Jak sprawdzić korzyść po roku |
 |---|---|---|
-| Katapult: Roadmap to a CoVE | Rozwój zaczyna się od rozpoznania ekosystemu; dalej obejmuje model działania, ofertę, zaangażowanie partnerów, uzgodnienia, przegląd koleżeński i iterację. | Najpierw potwierdzić problem i wkład partnerów, następnie przyjąć strukturę oraz plan. |
-| Katapult: narzędzia i model dojrzałości | Dostępne są wzory analizy otoczenia, modelu działania, kart projektów, porozumień i oceny dojrzałości. | Użyć istniejących formatów jako podstawy warsztatów; rozdzielić siedem kroków roadmapy od pięciu poziomów dojrzałości. |
-| ETF: Skills ecosystem engagement toolkit | Trzy etapy: samoocena, rozpoznanie interesariuszy, budowanie trwałych partnerstw. CoVE może mieć postać sieci. | Diagnozować również zdolności własnego zespołu i wzajemną wartość współpracy. |
-| ETF: ISATCOVE | Samoocena obejmuje nauczanie, współpracę oraz zarządzanie i finansowanie. | Wybrać niewielki zestaw kryteriów do przeglądu co pół roku. |
-| Tknika/TKgune | Współpraca z przedsiębiorstwami łączy rozwiązywanie problemów firm z aktualizacją wiedzy kadry VET. | Rozwijać małe projekty wdrożeniowe MŚP prowadzone z nauczycielami i zapleczem partnerów. |
-| Erasmus+ CoVE | Doskonałość zawodowa jest osadzona w lokalnym ekosystemie i współpracy międzynarodowej. | Powiązać partnerstwa europejskie z konkretnymi usługami regionalnymi. |
+| Czytelny obraz oferty i potrzeb edukacji zawodowej | Wspólna mapa instytucji, usług, zasobów i zweryfikowanych problemów. | Czy miasto potrafi wskazać wykonawcę lub lukę dla zgłoszonej potrzeby? |
+| Sprawniejsza współpraca szkół i przedsiębiorstw | Jeden sposób zgłaszania problemów, dobierania partnerów i prowadzenia małych przedsięwzięć. | Ile zgłoszeń zakończyło się działaniem i ile czasu wymagało ich uruchomienie? |
+| Lepsze wykorzystanie istniejącego zaplecza | Kojarzenie potrzeb z ekspertami, pracowniami i ofertą partnerów. | Jakie zasoby wykorzystano wspólnie i na jakich warunkach? |
+| Rozwój jakości kształcenia | Zadania zawodowe opracowane przez nauczycieli i mentorów oraz sprawdzone w praktyce. | Co zmieniło się w pracy uczestników i na zajęciach? |
+| Bardziej świadome decyzje o dalszych nakładach | Znane koszty pilotaży, wyniki i zainteresowanie kolejną edycją. | Którą usługę warto powtórzyć, poprawić albo zakończyć? |
+| Przygotowanie do pozyskiwania finansowania zewnętrznego | Potrzeby poparte diagnozą, działające partnerstwa, karty przedsięwzięć i dane o rezultatach. | Czy istnieją projekty gotowe do dopasowania do właściwego naboru? |
 
-Źródła: [Katapult — roadmapa](https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/), [narzędzia Katapult](https://www.wearekatapult.eu/we-are-katapult/tools/), [ETF — toolkit](https://www.etf.europa.eu/en/publications-and-resources/publications/skills-ecosystem-engagement-toolkit), [ISATCOVE](https://www.etf.europa.eu/ro/what-we-do/isatcove-international-self-assessment-tool-centres-vocational-excellence), [Tknika](https://tknika.eus/en/areas-2/applied-innovation-in-strategic-settings/), [przewodnik Erasmus+](https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence).
+Są to oczekiwane korzyści do zweryfikowania. Diagnoza ma również ustalić, które z tych funkcji są już skutecznie realizowane i gdzie COVE Polska mogłoby je uzupełnić.
 
-Wniosek projektowy: szeroki zakres instytucji parasolowej można budować etapowo. Na początek wystarczą dwa wspólne pilotaże, jasny podział pracy i regularny pomiar rezultatów. Wzory Katapult wymagają dostosowania do polskich instytucji; nie są gotowymi polskimi umowami. Przykład baskijski jest inspiracją organizacyjną, nie dowodem, że identyczny model zadziała we Wrocławiu.
+Kierunek odpowiada zapisom Strategii Wrocław 2050 dotyczącym współpracy szkół technicznych i zawodowych z przedsiębiorstwami, rozwoju nauczycieli, sieci edukacyjnych i uczenia się przez całe życie. Nie oznacza to wskazania COVE Polska jako wykonawcy strategii miasta. [Strategia Wrocław 2050, część 3.2.5](https://bip.um.wroc.pl/attachments/download/170623).
 
-## 3. Zgodność z polityką Wrocławia i Dolnego Śląska
+## Jak mogłaby wyglądać organizacja
 
-### Wrocław: istnieje bezpośrednie uzasadnienie dla takiej roli
+<div class="municipal-model">
+<div class="model-row"><strong>Gmina Wrocław — proponowany gospodarz</strong><span>Mandat, wskazanie odpowiedzialnej komórki i warunków działania</span></div>
+<div class="model-row"><strong>Rada COVE</strong><span>Priorytety, rekomendacje budżetowe, ocena efektów; zakres decyzji zgodny z nadanym mandatem</span></div>
+<div class="model-row"><strong>Sekretariat COVE</strong><span>Kontakt, kojarzenie partnerów, prowadzenie portfela i monitoring</span></div>
+<div class="model-row"><strong>Zespoły partnerów dla konkretnych zadań</strong><span>Szkoły, BCU, przedsiębiorstwa, uczelnia lub ekspert — stosownie do potrzeby</span></div>
+</div>
 
-Strategia Wrocław 2050 została przyjęta 20 października 2025 r. W części 3.2.5, na s. 49–50 numeracji dokumentu (51–52 PDF), łączy jakość edukacji z współpracą szkół technicznych i zawodowych z firmami i organizacjami, rozwojem nauczycieli, sieciami edukacyjnymi, uczeniem przez doświadczenie, doradztwem oraz uczeniem się przez całe życie. Na s. 42 (44 PDF) uwzględnia przeciwdziałanie dezinformacji i manipulacji oraz cyberodporność.
+W pierwszym roku można sprawdzić ten układ bez tworzenia osobnej osoby prawnej. Kluczowe jest wskazanie gospodarza pracy sekretariatu, czasu koordynatora, obsługi administracyjnej i zasad rozliczania wkładów. Rada COVE nie zastępuje właściwych organów decyzyjnych Gminy ani partnerów.
 
-**Wniosek dla strategii:** program „Wiarygodność źródeł i AI w pracy” ma uzasadnienie zarówno edukacyjne, jak i miejskie. Może stać się wspólną usługą dla szkół, nauczycieli i firm. To rekomendacja wynikająca z zestawienia dokumentów, a nie zapis strategii miasta wskazujący COVE Polska jako wykonawcę. [Strategia i uchwała](https://bip.um.wroc.pl/artykul/330/5367/strategia-rozwoju-wroclawia), [PDF](https://bip.um.wroc.pl/attachments/download/170623).
+## Partnerzy i podział pracy
 
-### Dolny Śląsk: włączyć się w istniejącą koordynację
+Poniższe role są propozycją do uzgodnienia. Lista określa uczestników rozmowy, nie skład już powołanego partnerstwa.
 
-SRWD 2030 na s. 48 (49 PDF), w celach 3.3 i 3.4, wiąże rynek pracy z poprawą edukacji, w tym jakości i atrakcyjności kształcenia zawodowego oraz innowacyjnych metod nauczania. Aktualizację SRWD 2030+ należy traktować jako proces: na sprawdzonej stronie urzędu udostępniany jest projekt. Ostateczne brzmienie wymaga sprawdzenia przed zatwierdzeniem strategii COVE Polska. [SRWD 2030](https://umwd.dolnyslask.pl/fileadmin/user_upload/Rozwoj_regionalny/SRWD_2030.pdf), [projekt 2030+](https://umwd.dolnyslask.pl/rozwoj/proces-aktualizacji-strategii-rozwoju-wojewodztwa-dolnoslaskiego-2030/aktualna-wersja-projektu-srwd-2030/).
-
-Regionalny program wdrażania ZSU 2030 przewiduje m.in. rozpoznawanie potrzeb przedsiębiorstw, rozwój kadry, obsługę pracodawców w formule one-stop-shop oraz sieci dyrektorów szkół zawodowych i organów prowadzących. **Zapisy programu nie potwierdzają, że każda usługa już działa.** Pierwszym zadaniem COVE Polska jest ustalenie z właścicielami działań, co uruchomiono i gdzie pozostają luki. [Program ZSU — plik oznaczony kwiecień 2025](https://dodn.dolnyslask.pl/wp-content/uploads/ZPW_ZSU2030kwiec2025_ZalNr1doUchwaly3_2024-zakt.pdf).
-
-Od 1 lipca 2026 r. rozpoczęła się nowa, pięcioletnia kadencja Wojewódzkiego Zespołu Koordynacji do spraw polityki umiejętności. Zespół pełni funkcję opiniodawczo-doradczą wobec zarządu województwa. COVE Polska powinno zaproponować mu współpracę w zakresie informacji z pilotaży i potrzeb firm. [UMWD — zarządzenie 40/2026](https://umwd.dolnyslask.pl/pl/edukacja/aktualnosci/artykul/zarzadzenie-nr-402026-marszalka-wojewodztwa-dolnoslaskiego-z-dnia-30-czerwca-2026-r-w-sprawie/).
-
-Projekt „Dolnośląska Strategia Rozwoju Edukacji Zawodowej” dostarczył także zarysu i wytycznych. Należy włączyć je do warsztatu regionalnego, lecz odróżnić rezultat projektu od formalnie przyjętej strategii samorządu. W tej sesji pełne pobranie tych dwóch publikacji z aktualnego serwera było blokowane; szczegółowe cele nie stanowią podstawy poniższych rekomendacji. [Strona projektu i publikacje](https://www.ideis.pl/wroclaw/nauka-i-badania/projekty-badawcze-i-naukowe/dolnoslaska-strategia-rozwoju-edukacji-zawodowej).
-
-### Proponowany podział funkcji do uzgodnienia
-
-| Podmiot / struktura | Funkcja w projektowanym układzie |
+| Podmiot / grupa | Temat współpracy do uzgodnienia |
 |---|---|
-| WZK i instytucje regionalne | Koordynacja polityki umiejętności; konsultowanie priorytetów i wykorzystanie informacji z praktyki. |
-| Miasto i pozostali organizatorzy edukacji | Decyzje dotyczące prowadzonych placówek, kadry i zasobów w granicach swoich kompetencji. |
-| COVE Polska | Pozyskiwanie problemów do rozwiązania, dobór partnerów, obsługa wspólnych projektów, jakość i pomiar efektów. |
-| Szkoły, CKZ, BCU, uczelnie | Kształcenie, eksperci, infrastruktura i realizacja uzgodnionych działań. |
-| Firmy, izby i organizacje pracodawców | Potrzeby, mentorzy, miejsca uczenia się, wkład rzeczowy lub finansowy i ocena użyteczności. |
-| Uczniowie, dorośli uczący się, organizacje społeczne | Informacja o dostępności, jakości doświadczenia i barierach udziału. |
+| Właściwa komórka Gminy Wrocław | Gospodarz procesu, powiązanie z polityką miasta, priorytety i dostępne zasoby. |
+| Agencja Rozwoju Aglomeracji Wrocławskiej (ARAW) | Kontakt z przedsiębiorstwami i potrzebami gospodarczymi; uzgodnienie przekazywania zgłoszeń między ARAW a COVE. |
+| Centrum Placówek Kształcenia Zawodowego (CPKZ), BCU i szkoły zawodowe | Oferta kształcenia, nauczyciele, mentorzy, pracownie oraz realizacja zadań edukacyjnych. |
+| Politechnika Wrocławska, Dolnośląska Izba Rzemieślnicza we Wrocławiu, Wrocławski Park Technologiczny (WPT) | Wiedza ekspercka, środowisko rzemiosła i firm, dostępne możliwości współpracy. |
+| PUP we Wrocławiu | Rozpoznanie potrzeb rynku pracy i powiązanie z istniejącymi instrumentami wsparcia. |
+| WZK, DWUP i DODN | Spójność z regionalną polityką umiejętności, informacjami o potrzebach oraz rozwojem kadry. |
+| Firmy, nauczyciele, mentorzy, uczniowie i dorośli | Wskazanie problemów, udział w projektowaniu i ocenie usług. |
 
-To propozycja współpracy, nie przypisanie obowiązków ani potwierdzenie udziału wymienionych instytucji.
+Wrocław ma już doświadczenie takiej współpracy. BIP opisuje projekt ARAW i Gminy „Zawodowo w przyszłość”, z okresem realizacji 2023–2025, obejmujący m.in. staże i rozwój kadry. COVE powinno wykorzystać jego dorobek i ustalić, jakie mechanizmy są kontynuowane. [Opis projektu w BIP](https://bip.um.wroc.pl/artykul/1146/71159/zawodowo-w-przyszlosc-rozwoj-umiejetnosci-niezbednych-na-rynku-pracy-aglomeracji-wroclawskiej).
 
-## 4. Strategia VET UE — co jest potwierdzone
+Pierwszym zadaniem będzie ustalenie rzeczywistej oferty każdej instytucji i zasad współpracy. Mapa powinna obejmować również mikrofirmy i osoby nieuczestniczące dotąd w projektach. **BCU oznacza branżowe centrum umiejętności; konkretne placówki i dziedziny należy wskazać w mapie.** Informacje o rolach instytucji i nazewnictwie: [uzupełniony rejestr źródeł](../zrodla.html).
 
-Komisja Europejska prowadzi prace nad nową europejską strategią VET. W styczniu 2026 r. uruchomiła zbieranie opinii; w dokumencie COM(2026)363 z 10 lipca 2026 r. nadal odnosi się do strategii jako nadchodzącej. Kierunek prac wpisuje się w Unię Umiejętności i priorytety deklaracji z Herning na lata 2026–2030. **Na podstawie sprawdzonych źródeł nie należy pisać, że nowa strategia została już przyjęta.** [Konsultacje KE](https://employment-social-affairs.ec.europa.eu/news/boosting-eu-competitiveness-commission-launches-call-evidence-new-vocational-education-and-training-2026-01-26_en), [COM(2026)363](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A52026DC0363), [polityka VET i Herning](https://employment-social-affairs.ec.europa.eu/policies-and-activities/skills-and-qualifications/skills-jobs/vocational-education-and-training-vet_en).
+## Rok pracy według logiki Katapult
 
-EVBB zapowiada konferencję w Paryżu 18–20 listopada 2026 r. dotyczącą wdrażania europejskiej strategii VET. Informacja o spodziewanej publikacji strategii pod koniec września pochodzi od organizatora konferencji. Platforma rejestracyjna pokazuje szerszy zakres do 21 listopada, związany z programem dodatkowym; termin udziału wymaga potwierdzenia przed organizacją podróży. [EVBB](https://evbb.eu/events/welcome-to-the-evbb-annual-conference-2026/), [platforma wydarzenia](https://www.b2match.com/e/evbb-annual-conference-eu-vet/components/72758).
+Katapult proponuje przejście od potrzeb i odbiorców do oferty, zasobów, realizacji, zewnętrznego przeglądu i poprawy modelu. Rozróżnia też poziomy dojrzałości partnerstwa. Ambicją pierwszego roku jest przejście od Start do Develop oraz zdobycie dowodów potrzebnych do oceny gotowości do Validate; samo zakończenie roku nie przesądza o osiągnięciu poziomu. [Roadmapa](https://wearekatapult.eu/tools/roadmap-to-a-centre-of-vocational-excellence/), [model dojrzałości](https://www.wearekatapult.eu/files/Tools%20voor%20CoVE/Phase%20model.pdf).
 
-EfVET opublikował w marcu 2026 r. stanowisko dotyczące europejskiej strategii VET, promujące m.in. lokalne ekosystemy uczenia się i doskonałość dostępną szeroko. To głos organizacji branżowej w debacie, nie obowiązująca polityka UE. [Stanowisko EfVET](https://efvet.org/wp-content/uploads/2026/03/European-VET-Strategy-EfVET-Position-Paper.pdf).
-
-**Działanie:** w październiku sprawdzić publikację strategii i sporządzić krótką analizę wpływu na COVE Polska. Ewentualny udział w EVBB wykorzystać do konsultacji modelu działania i znalezienia partnerów do peer review. Do dziesięciu dni roboczych po konferencji przygotować notatkę: trzy zmiany w planie, dwa kontakty do dalszej pracy, jeden wspólny temat. Brak udziału nie blokuje procesu.
-
-## 5. Połączenie z wcześniejszą analizą IBE, WEF i PwC
-
-| Dotychczasowy materiał | Znaczenie dla instytucji parasolowej | Usługa lub decyzja |
+| Okres | Najważniejsza praca | Rezultat do oceny |
 |---|---|---|
-| IBE: wiedza dziedzinowa, krytyczne myślenie, kompetencje cyfrowe, odpowiedzialność | Sam kurs obsługi AI nie wystarczy; weryfikacja musi dotyczyć rzeczywistych zadań zawodowych. | Zadania oparte na dokumentacji, porównaniu źródeł i uzasadnianiu decyzji. |
-| WEF: zmiana wymagań kompetencyjnych i znaczenie umiejętności analitycznych | Potrzebny jest regularny kontakt z pracodawcami oraz aktualizacja oferty. | Krótkie cykle rozpoznawania potrzeb i przeglądu programów z firmami. |
-| PwC: przemiany pracy związane z AI | Należy sprawdzać, które zadania rzeczywiście zmieniają się w lokalnych firmach. | Pilotaże na konkretnych procesach z pomiarem jakości, czasu i błędów. |
-| Wcześniejsze cele weryfikacji źródeł | Kompetencja może łączyć szkołę, praktyki, rozwój nauczycieli i doskonalenie dorosłych. | Wspólny moduł „Wiarygodność źródeł i AI w pracy”. |
-| Katapult i ETF | Potrzebny jest mechanizm trwałej współpracy, role, zasoby i wspólna wartość. | Sekretariat, karty usług, porozumienia i ocena efektów. |
-| Strategie lokalne | Istnieje kierunek publiczny i istniejące struktury wymagające rozpoznania. | Uzgodnienie uzupełniającej roli operatora. |
+| X–XI 2026 | Mandat, mapa 30–40 podmiotów, 20–25 rozmów i wspólne omówienie potrzeb. | Mapa ekosystemu oraz 10–15 problemów; wybór zakresu, który COVE podejmie. |
+| XII 2026 – I 2027 | Poznanie 5–6 grup odbiorców i jednodniowy warsztat modelu działania. | Profile potrzeb, propozycja wartości, Business Model Canvas 1.0. |
+| II–III 2027 | Wybór oferty, karty dwóch pilotaży, uzgodnienie ról i wkładów. | Gotowość do rozpoczęcia działań: liderzy, odbiorcy, budżet i kryteria oceny. |
+| III–VI 2027 | Realizacja pilotaży i obserwacja pracy sekretariatu. | Zakończone działania, wyniki uczestników, koszty i czas uruchomienia współpracy. |
+| VI–VII 2027 | Zewnętrzny przegląd w czerwcu i pogłębiona ocena rezultatów do lipca. | Zalecenia i dowody wskazujące, co warto utrzymać lub zmienić. |
+| VII–IX 2027 | Poprawa modelu, decyzje o usługach i przygotowanie roku drugiego. | Canvas 2.0, portfel oraz model finansowania dalszej działalności. |
 
-Podstawa: [wcześniejsza analiza](../analiza.html) i [cele operacyjne](../kompetencje.html). Raporty WEF i PwC nie są diagnozą wszystkich dolnośląskich firm. Prognozy pracodawców i związki statystyczne nie dowodzą lokalnego popytu ani skuteczności konkretnego szkolenia. Podane dalej cele ilościowe są propozycją do pilotażu, nie wynikami tych raportów.
+W harmonogramie czerwcowy przegląd korzysta z wyników już dostępnych. Rezultaty późniejszych działań i pomiar odroczony uzupełniają ocenę w lipcu. Jeśli brakuje dowodów, decyzję o rozszerzeniu zakresu należy odroczyć.
 
-## 6. Portfel docelowy i dwa pilotaże
+## Co sprawdzimy w dwóch pilotażach
 
-Docelowo COVE Polska może utrzymywać pięć obszarów usług: kojarzenie partnerów i zasobów; jakość praktyk i rozwój nauczycieli; AI i wiarygodność informacji; innowacje w miejscu pracy w MŚP; uczenie się dorosłych i doradztwo. Zielone umiejętności należy włączać przez rzeczywiste zadania branżowe, np. wykorzystanie materiałów i energii, gdy diagnoza potwierdzi zapotrzebowanie.
+**A. Wiarygodność źródeł i AI w pracy.** Szkoły i firmy przygotują zadania sprawdzające, czy uczestnik potrafi zweryfikować informację i odpowiedź AI na podstawie dokumentacji zawodowej. Wynikiem mają być umiejętność i użyteczny materiał edukacyjny.
 
-### Pilotaż A: „Wiarygodność źródeł i AI w pracy”
+**B. Dobra praktyka zawodowa i innowacja w MŚP.** Pary nauczyciel–mentor wraz z uczniami, w odpowiednim zakresie, pracują nad konkretnymi problemami firm — np. instrukcją stanowiskową, wdrożeniem nowej osoby lub ograniczeniem błędów procesu.
 
-- Proponowana skala: dwie placówki, 8–12 nauczycieli, 30–40 osób uczących się, 3–4 firmy. Dobór co najmniej dwóch kontekstów zawodowych.
-- Przebieg: diagnoza → przygotowanie nauczycieli i mentorów → zadania na materiałach branżowych → samodzielne zadanie końcowe → sprawdzenie transferu po 6–8 tygodniach.
-- Zakres: ustalenie pochodzenia informacji, dotarcie do źródła pierwotnego, ocena aktualności i zastosowania, niezależne potwierdzenie, kontrola odpowiedzi AI, rozpoznanie manipulacji, dokumentowanie sprawdzeń i decyzja o konsultacji z ekspertem.
-- Przykłady: sprawdzenie odpowiedzi AI z dokumentacją producenta; ocena internetowej instrukcji naprawy; weryfikacja danych do oferty; kontrola materiału szkoleniowego wygenerowanego przez AI. Materiały należy dobrać do kwalifikacji uczestników i zatwierdzić z ekspertem branżowym.
-- Rezultat: pakiet zadań, rubryka oceny i krótkie portfolio dowodów. Roboczy próg: 75% uczestników samodzielnie spełnia kryteria końcowego zadania; wyniki porównać z diagnozą, a błędy o istotnych konsekwencjach raportować oddzielnie.
+Oba pilotaże sprawdzają również COVE: czy trafnie kwalifikuje potrzebę, znajduje wykonawców, pomaga uzgodnić współpracę i dokumentuje rezultat. Rdzeniem instytucji pozostaje **koordynacja ekosystemu**. Rozwój metod uczenia, LLL i rozwiązywanie problemów firm są pierwszymi obszarami, na których testuje się ten mechanizm.
 
-### Pilotaż B: „Dobra praktyka zawodowa i innowacja w MŚP”
+## Finansowanie i perspektywa dalszego rozwoju
 
-- Proponowana skala: 4–6 firm, dwie placówki i co najmniej cztery pary nauczyciel–mentor z przedsiębiorstwa.
-- Każda para wybiera jeden problem, np. wdrożenie nowej osoby, jakość instrukcji stanowiskowej, dokumentowanie procesu, ograniczanie błędów lub strat materiałowych.
-- Uzgadnia zadanie, opiekę, kryteria jakości i zasady użycia danych. Uczniowie włączają się w zakresie odpowiednim do programu i przygotowania.
-- Rezultat: karta problemu, rozwiązanie sprawdzone przez firmę, materiał dydaktyczny i opis efektu. Roboczy cel: minimum trzy zakończone przypadki oraz udokumentowana deklaracja kontynuacji ze strony przynajmniej połowy firm.
+Miasto otrzymałoby wspólny portfel potrzeb i przedsięwzięć z partnerami, kosztami oraz dowodami z pilotaży. Taki materiał może służyć przygotowaniu wniosków dotyczących rozwoju edukacji, kadry, współpracy z pracodawcami i umiejętności dorosłych. Możliwości należy sprawdzać m.in. w Erasmus+ i Funduszach Europejskich dla Dolnego Śląska. Każdy nabór ma własne warunki; funkcjonowanie COVE nie daje automatycznie prawa do dofinansowania. [Erasmus+ CoVE](https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/centres-of-vocational-excellence), [FEDS](https://funduszeuedolnoslaskie.pl/).
 
-Oba pilotaże mają weryfikować również sprawność COVE Polska: czas kojarzenia partnerów, jasność odpowiedzialności, obciążenie kadry i koszty obsługi. Zaświadczenie uczestnictwa nie powinno być przedstawiane jako formalna kwalifikacja bez właściwej podstawy.
+Pierwszy rok powinien pokazać osobno koszt stałej koordynacji, koszt przygotowania usługi i koszt kolejnej edycji. Rozszerzenie działalności wymaga potwierdzonego popytu oraz zabezpieczenia podstawowej koordynacji na następny rok. Rozwój infrastruktury lub szerszych programów może być kolejnym krokiem, jeżeli diagnoza i wyniki uzasadnią takie przedsięwzięcia.
 
-## 7. Jak zorganizować instytucję parasolową
+## Rezultat oczekiwany do 30 września 2027
 
-**Rada partnerstwa:** ustala priorytety, przyjmuje budżet i ocenia rezultaty. Zapewnić głos edukacji, przedsiębiorstw i nauki oraz udział perspektywy osób uczących się. Skład i zasady głosowania ustalić z rzeczywistymi partnerami.
+**COVE Polska ma mieć sprawdzony sposób przekształcania potrzeb wrocławskiej edukacji zawodowej i gospodarki we wspólne działania — ze wskazaną odpowiedzialnością, potwierdzonym rezultatem i znanym kosztem.**
 
-**Sekretariat/operator:** prowadzi portfel usług, kalendarz, dokumentację, kontakty i pomiar. Planistyczny wariant startowy: zabezpieczona praca koordynatora oraz dostęp do wsparcia administracyjno-finansowego i metodycznego. Wymiar pracy wycenić na podstawie zadań, zanim zostanie zadeklarowany etat.
+Dowodami będą dwa zakończone pilotaże, co najmniej jedna usługa gotowa do powtórzenia, aktywne partnerstwo, poprawiony model działania i plan kolejnego roku. Równie wartościowym wynikiem testu może być decyzja o zakończeniu nieskutecznego działania.
 
-**Zespoły usług:** powoływane do pilotaży; każdy ma jednego lidera odpowiedzialnego za realizację, partnera biznesowego i osobę odpowiadającą za jakość edukacyjną.
+Na początek potrzebna jest rozmowa o gospodarzu procesu, osobie odpowiedzialnej, zasobach na diagnozę i granicach współpracy z istniejącymi instytucjami. Szczegóły: **[plan operacyjny 2026/27 — zadania, odpowiedzialność, KPI i budżet](../operacyjny.html)**.
 
-Porozumienie powinno określać: cele i zakres, reprezentację, wkład partnerów, gospodarza środków, podejmowanie decyzji, dostęp do infrastruktury, wykorzystanie materiałów i danych, odpowiedzialność za ocenę jakości, zasady dołączania i wyjścia oraz rozwiązywanie sporów. Adaptację należy uzgodnić z obsługą prawną gospodarza.
-
-Miara partnerstwa: partner aktywny ma uzgodniony wkład i wykonał działanie w kwartale. Sama obecność logo lub udział w konferencji nie spełnia tego kryterium.
-
-## 8. Harmonogram opracowania strategii
-
-Wszystkie role i terminy poniżej są propozycją do uzgodnienia; nie stanowią zobowiązań instytucji.
-
-| Termin | Praca | Odpowiedzialność do wskazania | Produkt i warunek przejścia |
-|---|---|---|---|
-| 11–30 IX 2026 | Potwierdzenie mandatu, gospodarza, zespołu i zasobów; inwentaryzacja WIN4SMEs i wcześniejszych materiałów. | Inicjator + przedstawiciele obecnego partnerstwa | Jednostronicowy mandat, lista dostępnych zasobów, właściciel każdego działania. |
-| X 2026 | 12–18 rozmów ze szkołami, firmami i instytucjami; mapa istniejących usług; analiza nowych dokumentów UE i regionu. | Koordynator + prowadzący diagnozę | Diagnoza potrzeb i luk; dwie potwierdzone grupy odbiorców; decyzja o pilotażach. |
-| XI 2026 | Warsztat modelu działania, karty usług, zasady partnerstwa, wycena; konsultacja zewnętrzna, opcjonalnie EVBB. | Grupa robocza + gospodarz finansowy | Model działania i porozumienie robocze; konkretne deklaracje zasobów. |
-| XII 2026 | Strategia 0.9, budżet wariantowy, mierniki, przegląd przez 2–3 zewnętrzne centra/partnerstwa, jeśli przyjmą zaproszenie. | Rada partnerstwa + redaktor strategii | Zgoda na pilotaż wyłącznie w zakresie zabezpieczonych zasobów. |
-| I–III 2027 | Dwa pilotaże; pomiar efektów i kosztów; korekta oferty i modelu organizacji. | Liderzy usług + osoba odpowiedzialna za ewaluację | Raport z pilotaży i strategia 1.0 do przyjęcia przez właściwych partnerów. |
-| IV–XII 2027 | Powtarzanie sprawdzonych usług, rozwój finansowania i partnerstw; ewentualna decyzja o osobnym podmiocie. | Operator + rada partnerstwa | Rozszerzenie wyłącznie przy potwierdzonym popycie, jakości i finansowaniu. |
-
-Proces powinien zakończyć się zestawem sześciu uzgodnionych produktów: diagnozą i mapą ekosystemu; strategią; porozumieniem organizacyjnym; kartami usług; trzyletnim planem finansowym; planem pomiaru i wdrożenia na pierwszy rok.
-
-## 9. Finansowanie i mierniki
-
-Budżet należy rozdzielić na stałą obsługę partnerstwa oraz koszty poszczególnych usług. Wariant minimalny obejmuje sekretariat i dwa pilotaże; wariant rozszerzony dodaje kolejne edycje i dostępność dla odbiorców spoza Wrocławia. Każdą pozycję oznaczyć jako środki potwierdzone, wkład rzeczowy potwierdzony albo finansowanie dopiero planowane.
-
-Możliwe źródła do sprawdzenia: wkład gospodarza i partnerów, odpłatne usługi dla firm, zlecenia realizowane zgodnie z zasadami właściwymi dla podmiotów oraz konkursowe środki Erasmus+ i Funduszy Europejskich dla Dolnego Śląska. Nie potwierdzono dostępnego naboru ani kwalifikowalności przyszłego operatora. Projekt grantowy może finansować rozwój usług; potrzebny jest również plan utrzymania koordynacji między projektami.
-
-| Miernik | Sposób sprawdzenia | Roboczy punkt odniesienia |
-|---|---|---|
-| Aktywni partnerzy | Wkład i wykonane działanie w kwartale | Ustalić stan początkowy we IX; mierzyć aktywność i różnorodność. |
-| Skuteczność kojarzenia | Czas od zgłoszenia potrzeby do uzgodnienia działania; odsetek zgłoszeń zakończonych realizacją | Zmierzyć w pilotażach; na tej podstawie ustalić standard obsługi. |
-| Wiarygodne korzystanie z AI | Samodzielne zadanie przed/po i transfer po 6–8 tygodniach | Próg pilotażowy opisany przy usłudze A; osobny rejestr poważnych błędów. |
-| Zmiana praktyki nauczycielskiej | Zastosowanie materiału na zajęciach i dowód pracy uczniów | Co najmniej jedno udokumentowane zastosowanie przez uczestniczącego nauczyciela. |
-| Korzyść firmy | Uzgodniony efekt procesu i potwierdzenie odbioru | Co najmniej trzy zakończone przypadki w pilotażu B. |
-| Trwałość | Ponowny udział, wkład na kolejną edycję, pokrycie kosztów sekretariatu | Przed skalowaniem wskazać pokrycie koordynacji na następne 12 miesięcy. |
-| Dostępność | Rezygnacje i bariery czasu, transportu, sprzętu lub przygotowania | Rejestrować przyczyny i korekty, bez zbędnych danych osobowych. |
-
-Najważniejsze ryzyka: dublowanie regionalnych usług; partnerstwo zależne od jednej osoby; dominacja jednego interesariusza; brak czasu nauczycieli i mentorów; finansowanie wyłącznie grantowe; szkolenia AI bez przełożenia na zadania zawodowe. Odpowiedzią są odpowiednio: mapa usług, zastępowalność ról, jawne decyzje, uzgodnione nakłady pracy, budżet stały i pomiar wykonania zadań.
-
-## 10. Pierwsze trzy kroki
-
-1. Zwołać spotkanie istniejącego rdzenia COVE Polska i zatwierdzić mandat prac: gospodarz, koordynator, czas i oczekiwany rezultat do marca 2027 r.
-2. Przeprowadzić krótkie rozpoznanie z miastem, WZK/DODN, reprezentacją pracodawców i placówkami: jakie usługi już działają, czego brakuje i jaki wkład jest realny.
-3. Zatwierdzić karty dwóch pilotaży wraz z zasobami, odbiorcami i kryteriami oceny. Na tym oprzeć strategię oraz rozmowy o finansowaniu.
-
-Materiały pomocnicze: [rejestr źródeł](../zrodla.html), [karty do warsztatu](../warsztat.html). Dokument jest propozycją planu strategicznego opartą na źródłach, a nie przyjętą strategią lub potwierdzeniem partnerstwa.
+Materiały pomocnicze: [Katapult](../katapult.html), [edukacja i LLL w pilotażach](../edukacja-lll.html), [źródła](../zrodla.html). Aktualizacja propozycji: 14 września 2026 r.

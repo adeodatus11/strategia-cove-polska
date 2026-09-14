@@ -1,5 +1,7 @@
 # Edukacja branżowa i VET: IBE 2025, WEF 2025 i PwC 2026 wobec polskiej rzeczywistości
 
+Materiał pomocniczy z 10.09.2026. Aktualny zakres działań COVE Polska określa [plan operacyjny dla Wrocławia, X 2026–IX 2027](../operacyjny.html). Rekomendacje ogólne nie są listą zobowiązań pierwszego roku.
+
 Data analizy: 10 września 2026 r. VET oznacza tu kształcenie i szkolenie zawodowe: edukację początkową młodzieży oraz późniejsze doskonalenie i przekwalifikowanie dorosłych. Rekomendacje poniżej są syntezą autora analizy, a nie wspólnym stanowiskiem trzech instytucji.
 
 ## Główny wniosek

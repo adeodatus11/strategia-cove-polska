@@ -49,3 +49,24 @@ Stan sprawdzenia: 10 września 2026 r. Nazwy plików w tabelach odnoszą się do
 - [PwC — AI Jobs Barometer 2026](https://www.pwc.es/es/consultoria/assets/barometro-global-impacto-inteligencia-artificial-empleo-2026.pdf): analiza pracy i AI; związki obserwacyjne wymagają ostrożnej interpretacji.
 
 Kopie i teksty: `../raporty_zrodlowe`. Synteza: `../Analiza_VET_IBE_WEF_PwC_Polska.md`. Cele edukacyjne: `../Cele_operacyjne_wiarygodnosc_zrodel_AI_VET.md`.
+
+
+## Uzupełnienie dla propozycji miejskiej — sprawdzenie 14.09.2026
+
+Aktualny zakres to Wrocław, X 2026–IX 2027. Źródła regionalne opisują otoczenie; nie oznaczają wojewódzkiego mandatu COVE. Role w planie są propozycjami współpracy, a nie potwierdzonym udziałem instytucji.
+
+| Źródło oficjalne | Co potwierdza / jak wykorzystano |
+|---|---|
+| [ARAW — informacje o spółce](https://araw.pl/informacje-o-spolce) | Uzasadnienie rozmowy o potrzebach gospodarki, współpracy instytucji i przygotowaniu przedsięwzięć. |
+| [BIP — Zawodowo w przyszłość](https://bip.um.wroc.pl/artykul/1146/71159/zawodowo-w-przyszlosc-rozwoj-umiejetnosci-niezbednych-na-rynku-pracy-aglomeracji-wroclawskiej) | Opis wspólnego projektu edukacyjnego ARAW i Gminy; wskazany okres 2.11.2023–31.12.2025. Dowód istniejącego doświadczenia, nie raport potwierdzający wykonanie wszystkich rezultatów. |
+| [Wrocław — BCU nr 3](https://www.wroclaw.pl/dla-mieszkanca/branzowe-centrum-umiejetnosci-nr-3-bezplatne-szkolenia-w-dziedzinie-elektryki) | Potwierdza nazwę Centrum Placówek Kształcenia Zawodowego i ofertę BCU w elektryce. CPKZ nie powinno być traktowane jako synonim wszystkich wrocławskich BCU. |
+| [BCU nr 2 — elektromobilność](https://bcu2.wroclaw.pl/) | Przykład odrębnej placówki branżowej we Wrocławiu; oferta wymaga dopasowania do potrzeb danego pilotażu. |
+| [Dolnośląska Izba Rzemieślnicza we Wrocławiu](https://izba.wroc.pl/zostan-mistrzem-chcesz-zdobyc-kwalifikacje-zawodowe-chcesz-potwierdzic-posiadane-kwalifikacje-zawodowe-zglos-sie-do-nas/) | Nazwa i działalność w obszarze kwalifikacji rzemieślniczych. |
+| [Politechnika Wrocławska — oferta współpracy](https://pwr.edu.pl/badania/oferta-wspolpracy) | Uzasadnia rozpoznanie możliwości wkładu eksperckiego i współpracy z gospodarką. |
+| [WPT — szkolenia](https://www.technologpark.pl/oferta/szkolenia/) | Zaplecze szkoleniowe i specjalistyczne; nie potwierdza dostępności zasobów dla COVE. |
+| [PUP we Wrocławiu — informacje o urzędzie](https://wroclaw.praca.gov.pl/urzad/informacje-o-urzedzie) | Rola usług rynku pracy; nie oznacza finansowania pilotaży przez PUP. |
+| [DODN](https://dodn.dolnyslask.pl/) | Instytucja doskonalenia nauczycieli; rola regionalna. |
+| [Katapult — fazy i narzędzia](https://www.wearekatapult.eu/we-are-katapult/tools/) | Develop: przygotowanie pierwszych pilotaży; Validate: oferta poprawiana po ich sprawdzeniu. Impact Study wskazane przy Validate. Terminy i liczby w planie są własnymi założeniami. |
+| [FEDS — oficjalny portal](https://funduszeuedolnoslaskie.pl/) | Punkt sprawdzania właściwych naborów i kryteriów; nie potwierdzono finansowania konkretnego planu COVE. |
+
+Skróty „KOWE” i „WBCU” z opisu roboczego ujednolicono odpowiednio do COVE Polska i BCU. Nie założono, że WBCU jest nazwą odrębnej instytucji. Szczegółowy wykaz podmiotów, kontaktów i wkładów ma powstać w diagnozie.

@@ -1,8 +1,10 @@
 # COVE Polska — karty do opracowania strategii
 
-Propozycja robocza, 10.09.2026. Do wypełnienia z partnerami; puste pola nie oznaczają uzgodnień.
+Propozycja robocza, aktualizacja 14.09.2026. Do wypełnienia z partnerami; puste pola nie oznaczają uzgodnień.
 
-## A. Pierwszy warsztat: mandat i wybór usług — 150 minut
+Karty uzupełniają [plan operacyjny X 2026–IX 2027](../operacyjny.html). Gmina Wrocław jest proponowanym gospodarzem. Mandat ustala się w październiku; wyboru usług dokonuje się po diagnozie.
+
+## A. Warsztat wyboru usług po diagnozie — styczeń/luty 2027, 150 minut
 
 | Czas | Zadanie | Wynik |
 |---|---|---|
@@ -13,7 +15,7 @@ Propozycja robocza, 10.09.2026. Do wypełnienia z partnerami; puste pola nie ozn
 | 105–130 min | Kto wnosi czas, środki, odbiorców i kompetencje? | Deklaracje wkładu do potwierdzenia przez uprawnione osoby. |
 | 130–150 min | Kto prowadzi proces i kiedy podejmujemy następną decyzję? | Mandat, odpowiedzialności i termin przeglądu. |
 
-## B. Wywiad z partnerem / odbiorcą — 30 minut
+## B. Wywiad z partnerem / odbiorcą — diagnoza X–XI 2026, 30 minut
 
 1. Jakie zadanie edukacyjne lub zawodowe sprawia obecnie trudność? Podaj ostatni przypadek i jego skutek.
 2. Jak rozwiązujecie ten problem obecnie? Kto już oferuje pomoc i czego brakuje?
@@ -77,7 +79,7 @@ Wynik = suma ocen pomnożonych przez wagi; maksymalnie 3. Brak lidera lub pokryc
 
 Nie sumować wkładu rzeczowego jako gotówki dostępnej na pokrycie wynagrodzeń. Pokazać oddzielnie koszty stałe sekretariatu, koszty usług i niezabezpieczoną lukę.
 
-## G. Decyzja o przyjęciu strategii 1.0
+## G. Decyzja o modelu dalszego działania — wrzesień 2027
 
 Sprawdzić, czy są: potwierdzony mandat i gospodarz; opis odbiorców i potrzeb; podział pracy z istniejącymi instytucjami; liderzy usług; wyniki pilotaży i ich ograniczenia; budżet oraz luka finansowa; odpowiedzialność za pomiar; termin przeglądu. Zaktualizować odniesienia do strategii UE i SRWD po sprawdzeniu ich rzeczywistego statusu.
 
